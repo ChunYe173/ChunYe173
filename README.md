@@ -1,16 +1,25 @@
 ## Hi there 👋
+I'm Chun Ye, an AI/ML enthusiast with a strong background in the semiconductor industry. I am dedicated to expanding my knowledge and applying my skills to create impactful solutions. Actively participate in Kaggle challenges to stay updated with the latest trends in the field and making my way to becoming an AI expert capable of engineering innovative solutions once I have the data in hand.
 
-<!--
-**ChunYe173/ChunYe173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Programming Languages: 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-Here are some ideas to get you started:
+### Education: 
+- **Master of Science in Computer Science**  
+  *Georgia Institute of Technology*  
+  *Expected Fall 2024*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Bachelor of [Your Degree]**  
+  *Nanyang Technological University, Singapore*
+
+### AI/ML Portfolio:
+-  **[FinanceESG-AI](https://github.com/ChunYe173/FinanceESG-AI)**: ESG Monitoring and Fraud Prevention in Trade Finance using AI solutions
+-  **PII data detection**: Automates Personally Identifiable Information (PII) detection in student writing
+
+### Contact:
+- Email: cytan1999@hotmail.com
+- LinkedIn: chun-ye-tan
+
+  
+
+
