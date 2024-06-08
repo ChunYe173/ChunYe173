@@ -9,7 +9,7 @@ I'm Chun Ye, an AI/ML enthusiast with a strong background in the semiconductor i
   *Georgia Institute of Technology*  
   *Expected Fall 2024*
 
-- **Bachelor of [Your Degree]**  
+- **Bachelor of Engineering (Mechanical Engineering)**  
   *Nanyang Technological University, Singapore*
 
 ### AI/ML Portfolio:
