@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Chun Ye, an AI/ML enthusiast with a strong background in the semiconductor industry. I am dedicated to expanding my knowledge and applying my skills to create impactful solutions. Actively participate in Kaggle challenges to stay updated with the latest trends in the field and making my way to becoming an AI expert capable of engineering innovative solutions once I have the data in hand.
+I'm Chun Ye, an AI/ML enthusiast dedicated to expanding my knowledge and applying my skills to create impactful AI/ML solutions. Actively participate in Freelance projects and Kaggle challenges to stay updated with the latest trends in the field. Making my way to becoming an AI expert capable of engineering innovative solutions once I have the data in hand.
 
 ### Programming Languages: 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
