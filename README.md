@@ -23,7 +23,7 @@ I aim to drive transformation in semiconductor front and backend manufacturing b
 
 ## 💼 AI/ML Portfolio:
 -  **[FinanceESG-AI](https://github.com/ChunYe173/FinanceESG-AI)**: ESG Monitoring and Fraud Prevention in Trade Finance using AI solutions
--  **[PII data detection](https://github.com/ChunYe173/pii_data_detection)**: Automates Personally Identifiable Information (PII) detection in student writing
+-  **[PII Data Detection](https://github.com/ChunYe173/pii_data_detection)**: Automates Personally Identifiable Information (PII) detection in student writing
 
 ## 💡 Favourite Quote:
 "Tough times never last, but tough people do." -Robert H. Schuller
