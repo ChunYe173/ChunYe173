@@ -6,10 +6,10 @@ I aim to drive transformation in semiconductor front and backend manufacturing b
 
 ## 🏆 Skills
 
-### Programming Languages: 
+### **Programming Languages**: 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Tools and Technologies:
+### **Tools and Technologies**:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) 
 
 ## 🎓 Education: 
@@ -26,11 +26,11 @@ I aim to drive transformation in semiconductor front and backend manufacturing b
 -  **[PII Data Detection](https://github.com/ChunYe173/pii_data_detection)**: Automates Personally Identifiable Information (PII) detection in student writing
 
 ## 💡 Favourite Quote:
-"Tough times never last, but tough people do." -Robert H. Schuller
+**"Tough times never last, but tough people do."** -Robert H. Schuller
 
 ## 📞 Contact:
-- Email: cytan1999@hotmail.com
-- LinkedIn: chun-ye-tan
+- **Email**: cytan1999@hotmail.com
+- **LinkedIn**: chun-ye-tan
 
   
 
