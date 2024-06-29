@@ -15,11 +15,11 @@ I aim to drive transformation across various industries by deploying state-of-th
 ## 🎓 Education: 
 - **Master of Science in Computer Science**  
   *Georgia Institute of Technology, Atlanta*  
-  *Starting Fall 2024*
+  *Starting August 2024*
 
 - **Bachelor of Engineering (Mechanical Engineering)**  
   *Nanyang Technological University, Singapore*
-  *Graduated 2022*
+  *Graduated June 2022*
 
 ## 💼 AI/ML Portfolio:
 -  **[FinanceESG-AI](https://github.com/ChunYe173/FinanceESG-AI)**: ESG Monitoring and Fraud Prevention in Trade Finance using AI solutions
