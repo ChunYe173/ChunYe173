@@ -1,4 +1,4 @@
-## Hi there, I'm Chun Ye 👋
+## 👋 Hi there, I'm Chun Ye
 I'm an AI/ML enthusiast working in the semiconductor field, dedicated to expanding my knowledge and applying my skills to create impactful AI/ML solutions. Actively participate in freelance projects and Kaggle challenges to stay updated with the latest trends in the field. On a journey to becoming an AI expert, capable of engineering innovative solutions once I have the data in hand.
 
 ## 🥇 Goals
