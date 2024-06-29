@@ -14,7 +14,7 @@ I aim to drive transformation across various industries by deploying state-of-th
 
 ## 🎓 Education: 
 - **Master of Science in Computer Science**  
-  *Georgia Institute of Technology*  
+  *Georgia Institute of Technology, Atlanta*  
   *Starting Fall 2024*
 
 - **Bachelor of Engineering (Mechanical Engineering)**  
