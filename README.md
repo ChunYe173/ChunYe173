@@ -2,7 +2,7 @@
 I'm an AI/ML enthusiast working in the semiconductor field, dedicated to expanding my knowledge and applying my skills to create impactful AI/ML solutions. Actively participate in freelance projects and Kaggle challenges to stay updated with the latest trends in the field. On a journey to becoming an AI expert, capable of engineering innovative solutions once I have the data in hand.
 
 ## 🥇 Goals
-I aim to drive transformation in semiconductor front and backend manufacturing by deploying state-of-the-art machine learning models to streamline workflows, maximize cost savings, and enhance process yield. Leading the development of open-source frameworks dedicated to optimizing and advancing prediction workflows, setting new standards in efficiency and innovation.
+I aim to drive transformation across various industries by deploying state-of-the-art machine learning models to streamline workflows, maximize cost savings, and enhance overall efficiency. My goal is to lead the development of open-source frameworks dedicated to optimizing and advancing prediction workflows, setting new standards in innovation. I am committed to exploring and applying machine learning solutions to solve future challenges and unlock new opportunities across diverse sectors.
 
 ## 🏆 Skills
 
