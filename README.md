@@ -24,6 +24,8 @@ I aim to drive transformation across various industries by deploying state-of-th
 ## 💼 AI/ML Portfolio:
 -  **[FinanceESG-AI](https://github.com/ChunYe173/FinanceESG-AI)**: ESG Monitoring and Fraud Prevention in Trade Finance using AI solutions
 -  **[PII Data Detection](https://github.com/ChunYe173/pii_data_detection)**: Automates Personally Identifiable Information (PII) detection in student writing
+-  **[ros_pybullet_rl2](https://github.com/mcx-lab/ros_pybullet_rl2)**: Tactile Aware Dynamic Obstacle Avoidance in Crowded Environment with Deep Reinforcement Learning ([Research Paper]([insert-paper-link-here](https://arxiv.org/abs/2406.13434)))
+and more...
 
 ## 💡 Favourite Quote:
 **"Tough times never last, but tough people do."** -Robert H. Schuller
